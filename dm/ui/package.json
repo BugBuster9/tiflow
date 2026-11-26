@@ -18,7 +18,7 @@
     "antd": "^4.19.1",
     "clsx": "^1.1.1",
     "fuse.js": "^6.5.3",
-    "i18next": "^23.2.11",
+    "i18next": "^26.0.0",
     "i18next-browser-languagedetector": "^7.1.0",
     "lodash-es": "^4.17.21",
     "rc-queue-anim": "^2.0.0",
